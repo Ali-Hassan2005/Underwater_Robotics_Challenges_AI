@@ -1,0 +1,4 @@
+when experimenting with the image (1,2)
+  thresh = cv2.threshold(gray, 200, 255, cv2.THRESH_BINARY)
+when experimenting with the image (3)
+thresh = cv2.threshold(gray, 50, 255, cv2.THRESH_BINARY)
